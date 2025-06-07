@@ -12,4 +12,4 @@ Detects all current FiveM Ragebots and displays them in the console
 - Put all the Weapons, that should be whitelisted in the config.lua
 
 
--- more questions? contact me on discord: @unknow1337
+-- more questions? contact me on discord: @unknow.1337
