@@ -8,7 +8,7 @@ Detects all current FiveM Ragebots and displays them in the console
 - Own ban export/event can be used
 
 - Put the FiveM-AntiRageBot folder in your ressources folder
-- Write start AntiRageBot in your server.cfg
+- Write start FiveM-AntiRageBot in your server.cfg
 - Put all the Weapons, that should be whitelisted in the config.lua
 
 
